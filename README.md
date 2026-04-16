@@ -7,9 +7,8 @@ the regime signal to KOSPI for cross-market portability testing.
 2026.04.16
 
 ---
-## Acknowledgements
+## Acknowledgements ##
 This project was developed with assistance from Claude (AI) for coding support, and debugging.
----
 
 ## What's New in V2
 
