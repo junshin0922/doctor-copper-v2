@@ -6,7 +6,7 @@ the regime signal to KOSPI for cross-market portability testing.
 
 2026.04.16
 
-Check my website for more details: wonjunshin1220.com
+For a detailed walkthrough of the research process and model development, visit [wonjunshin1220.com](https://wonjunshin1220.com)
 
 ---
 ## Acknowledgements ##
